@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/allentang/Desktop/进行中/2022-spring-algorithm/leetcode20-ValidParentheses/main.cpp
+iostream
+-
+stack
+-
+
